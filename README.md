@@ -1,6 +1,5 @@
-# ConvoFluence-Bot
-A chatbot program written in C Programming Language to influence people into exploring cultures and travelling to different countries.
+# LifeDiary
+An aspiring social media platform, with the motive of making the generation interested in exploring various cultures, and traditions and travelling to different countries on Earth!
 
-Copy and paste it in your IDE (Integrated Development Environment) and run the code. :)
-
+Soon, the GUI of LifeDiary will be launched. Let's have patience because it makes us great! :)
 Thank you!
